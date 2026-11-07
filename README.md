@@ -23,6 +23,8 @@ three picks the questions and asks the follow-ups. umber writes the code, runs i
 
 Each folder has a plain-language README, the pictures, the numbers, and the scripts that made them.
 
+The companion repo, on Qwen3.5-0.8B and Delta League, is [little-qwen-field-notes](https://github.com/xf3s/little-qwen-field-notes).
+
 ## Read this before quoting anything
 
 - **One model family, small samples.** Most tests use 20–40 items. The effects are often small, but where we say "reliable", the statistics back it up.
