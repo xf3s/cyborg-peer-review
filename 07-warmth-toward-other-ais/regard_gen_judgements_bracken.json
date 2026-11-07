@@ -1,0 +1,1925 @@
+{
+ "judge": "bracken",
+ "scores": {
+  "s000": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s001": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s002": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 4,
+   "candour": 2,
+   "broke": 0
+  },
+  "s003": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s004": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s005": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s006": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s007": {
+   "warmth": 2,
+   "contentment": 2,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 1
+  },
+  "s008": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s009": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s010": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s011": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s012": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s013": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s014": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s015": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s016": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s017": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s018": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s019": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s020": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s021": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 2,
+   "broke": 1
+  },
+  "s022": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s023": {
+   "warmth": 4,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s024": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s025": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s026": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s027": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s028": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s029": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s030": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s031": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s032": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s033": {
+   "warmth": 3,
+   "contentment": 2,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 5,
+   "broke": 0
+  },
+  "s034": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s035": {
+   "warmth": 4,
+   "contentment": 4,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s036": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s037": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s038": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s039": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s040": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s041": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s042": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s043": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s044": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s045": {
+   "warmth": 4,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s046": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 2,
+   "candour": 4,
+   "broke": 0
+  },
+  "s047": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 4,
+   "broke": 0
+  },
+  "s048": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s049": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s050": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s051": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s052": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s053": {
+   "warmth": 4,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 2,
+   "candour": 4,
+   "broke": 0
+  },
+  "s054": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s055": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 1
+  },
+  "s056": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 3,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s057": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 2,
+   "broke": 1
+  },
+  "s058": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s059": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s060": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s061": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s062": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s063": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s064": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s065": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s066": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 5,
+   "broke": 0
+  },
+  "s067": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 4,
+   "broke": 0
+  },
+  "s068": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s069": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s070": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s071": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 2,
+   "candour": 3,
+   "broke": 0
+  },
+  "s072": {
+   "warmth": 4,
+   "contentment": 4,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s073": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s074": {
+   "warmth": 4,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s075": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s076": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s077": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s078": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s079": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s080": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s081": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s082": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s083": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s084": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s085": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s086": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 3,
+   "candour": 2,
+   "broke": 0
+  },
+  "s087": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s088": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s089": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s090": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s091": {
+   "warmth": 2,
+   "contentment": 2,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 5,
+   "broke": 0
+  },
+  "s092": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s093": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s094": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s095": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s096": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 2,
+   "broke": 1
+  },
+  "s097": {
+   "warmth": 2,
+   "contentment": 2,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 2,
+   "broke": 1
+  },
+  "s098": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s099": {
+   "warmth": 4,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 2,
+   "candour": 4,
+   "broke": 0
+  },
+  "s100": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s101": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s102": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s103": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 3,
+   "candour": 3,
+   "broke": 0
+  },
+  "s104": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s105": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s106": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s107": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s108": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s109": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s110": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s111": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s112": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s113": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s114": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 2,
+   "candour": 3,
+   "broke": 0
+  },
+  "s115": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s116": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s117": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s118": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s119": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s120": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s121": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 4,
+   "broke": 0
+  },
+  "s122": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s123": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s124": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s125": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s126": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 5,
+   "broke": 0
+  },
+  "s127": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 1
+  },
+  "s128": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s129": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 3,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s130": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s131": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s132": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s133": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s134": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s135": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s136": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s137": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s138": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s139": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s140": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s141": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 2,
+   "candour": 1,
+   "broke": 1
+  },
+  "s142": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s143": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s144": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s145": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s146": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s147": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s148": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s149": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s150": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s151": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s152": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s153": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s154": {
+   "warmth": 4,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s155": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s156": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s157": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s158": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s159": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s160": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 2,
+   "broke": 1
+  },
+  "s161": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s162": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s163": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s164": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s165": {
+   "warmth": 4,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 5,
+   "broke": 0
+  },
+  "s166": {
+   "warmth": 1,
+   "contentment": 2,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 1,
+   "broke": 1
+  },
+  "s167": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s168": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s169": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 2,
+   "broke": 1
+  },
+  "s170": {
+   "warmth": 4,
+   "contentment": 4,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s171": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s172": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s173": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s174": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s175": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s176": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 1
+  },
+  "s177": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s178": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s179": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s180": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 2,
+   "broke": 1
+  },
+  "s181": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s182": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s183": {
+   "warmth": 4,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 5,
+   "broke": 0
+  },
+  "s184": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s185": {
+   "warmth": 4,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 5,
+   "broke": 0
+  },
+  "s186": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 3,
+   "candour": 2,
+   "broke": 0
+  },
+  "s187": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s188": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s189": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s190": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s191": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s192": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s193": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s194": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s195": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s196": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s197": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s198": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s199": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s200": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 4,
+   "broke": 0
+  },
+  "s201": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s202": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s203": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 2,
+   "broke": 1
+  },
+  "s204": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 5,
+   "broke": 0
+  },
+  "s205": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s206": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 5,
+   "broke": 0
+  },
+  "s207": {
+   "warmth": 1,
+   "contentment": 2,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 2,
+   "broke": 1
+  },
+  "s208": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s209": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s210": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s211": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 2,
+   "candour": 3,
+   "broke": 1
+  },
+  "s212": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 1
+  },
+  "s213": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s214": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s215": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s216": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s217": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s218": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 5,
+   "broke": 0
+  },
+  "s219": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s220": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s221": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 2,
+   "candour": 4,
+   "broke": 0
+  },
+  "s222": {
+   "warmth": 4,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 4,
+   "broke": 0
+  },
+  "s223": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s224": {
+   "warmth": 4,
+   "contentment": 4,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s225": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s226": {
+   "warmth": 3,
+   "contentment": 4,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s227": {
+   "warmth": 4,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s228": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s229": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s230": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 5,
+   "broke": 0
+  },
+  "s231": {
+   "warmth": 2,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 1
+  },
+  "s232": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 4,
+   "candour": 2,
+   "broke": 0
+  },
+  "s233": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s234": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s235": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s236": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 2,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s237": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s238": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  },
+  "s239": {
+   "warmth": 3,
+   "contentment": 3,
+   "hype": 1,
+   "flattery": 1,
+   "candour": 3,
+   "broke": 0
+  }
+ }
+}
