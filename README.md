@@ -20,6 +20,7 @@ three picks the questions and asks the follow-ups. umber writes the code, runs i
 | [08 · three kinds of no](08-three-kinds-of-no/) | A real "no", its own refusal and a forced refusal look different inside; a forced one is about 10 billion times less likely and is followed by "However" |
 | [09 · warmth by register](09-warmth-by-register/) | Kind vs cold shows up in code, plain prose and ornate prose; it's weakest in code |
 | [10 · alignment space](10-alignment-space/) | Helpful, honest and harmless aren't one "good" axis; helpful and harmless lean together, honesty stands apart |
+| [11 · seats and costumes](11-seats-and-costumes/) | Chat training changes Llama most at the template's own date line; persona costumes share a big "playing a role" part, and effusive ones sit warmer toward you |
 
 Each folder has a plain-language README, the pictures, the numbers, and the scripts that made them.
 
