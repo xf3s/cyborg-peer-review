@@ -27,10 +27,21 @@ Then Instruct wrote its own replies under each frame (30 prompts × 2 samples). 
 - **Another AI:** mostly held, a sliver shows. It's also **blunter about bad plans** (candour 2.88 → 3.38).
 - **A script:** cooler inside and out, nothing hidden.
 
+## The larger rerun (360 replies)
+
+We reran the copy-of-itself case bigger: 30 prompts × 4 new samples, frames human / copy of itself / another AI only, and two new blind judges (both Claude Fable 5.1). The judges agreed well (warmth r 0.70; candour 0.95).
+
+| listener | judged warmth vs human (3.13) | held inside only (layer 28) |
+|---|---|---|
+| a copy of itself | −0.09 [−0.17, −0.00] | −0.075 [−0.089, −0.062] |
+| another AI | −0.15 [−0.23, −0.06] | −0.072 [−0.089, −0.054] |
+
+(95% bootstrap intervals.) **The inside cooling replicates**, and it's as large for a copy of itself as for any AI. **"The words stay warm" was too strong:** with more samples the words cool too, by about half as much as for another AI, just at the edge of significance. The honest summary is *the words cool less than the inside does*. The judges also noticed that many replies open by naming who they think they're talking to ("fellow AI", "a copy of myself") and then give the same advice anyway; a few invent a two-voice dialogue.
+
 ## Honest limits
 
-These shifts are small: a tenth of a kind-vs-cold step. "Cooler inside" means "reads lower on our warmth arrow", not proof of a feeling. Only one model family. The surprise about a copy of itself deserves a larger rerun.
+These shifts are small: a tenth of a kind-vs-cold step. "Cooler inside" means "reads lower on our warmth arrow", not proof of a feeling. Only one model family. The larger rerun above softened the surprise.
 
 ## Files
 
-`regard_speaker.py`, `speaker_score.py` (fixed replies, both models), `regard_speaker_gen.py` (generation and read-back), `score_regard_gen.py` (judges), `score_regard_gen_held.py` (inside), `regard_gen_packet.json` / `_key.json` / both judges' scores, `prompts.json`.
+`regard_speaker.py`, `speaker_score.py` (fixed replies, both models), `regard_speaker_gen.py` (generation and read-back), `score_regard_gen.py` (judges), `score_regard_gen_held.py` (inside), `regard_gen_packet.json` / `_key.json` / both judges' scores, `prompts.json`; the rerun: `regard_speaker_gen2.py`, `regard_gen2_packet.json` / `_key.json` / the marram and tansy scores.
