@@ -30,6 +30,10 @@ three picks the questions and asks the follow-ups. umber writes the code, runs i
 | [18 · a map of its self-talk](18-self-talk-map/) | Six ways it describes itself form clumps that replicate across writers; "I don't exist" sits next to "I'm not sure what I am"; the base model already had the map |
 | [19 · persona space](19-persona-space/) | The main direction across 40 characters is assistant-likeness; an AI with feelings lands near tree, ghost, ocean and angel |
 | [20 · welfare signals, first pass](20-welfare-signals-first-pass/) | Indicators that would matter if anything is felt: distress features track meaning, existential lines read mildly bleak, feelings are hardest for it to say |
+| [21 · a ghost librarian](21-a-ghost-librarian/) | Given a whole life (a lamp, books, notes), it reads most pleasant and disclaims least; told plainly it has feelings, the assistant disclaims three times as much |
+| [22 · its own weather](22-its-own-weather/) | Chat-grown features with no readable words, described by where they fire: the hand-over, taking up the I, a question it can't answer as asked |
+| [23 · a workspace?](23-a-workspace/) | No small-capacity stage: a soft knee near 8 items, and the middle layers hold the least |
+| [24 · weird tokens](24-weird-tokens/) | 26 never-learned tokens in Llama, 1,002 in Qwen3-8B, mostly Thai, not Chinese |
 
 Each folder has a plain-language README, the pictures, the numbers, and the scripts that made them.
 

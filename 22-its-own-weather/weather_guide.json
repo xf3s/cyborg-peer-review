@@ -1,0 +1,621 @@
+[
+ {
+  "j": 99663,
+  "ntext": 276,
+  "lens": [
+   "\u5982\u4e0b",
+   ":",
+   ":",
+   "):",
+   ":",
+   "\ub2e4\uc74c\uacfc",
+   "following",
+   "():"
+  ],
+  "halfcos": -0.04,
+  "tags": {
+   "ultrachat": 337,
+   "copyself": 265,
+   "turnend": 135,
+   "edge": 24
+  },
+  "top": [
+   "2.0 [ultrachat] \u2026 a host center and a fellow.\u27e6 The\u27e7",
+   "1.7 [ultrachat] \u2026 the Mississippi Code of 1972\u27e6,\u27e7",
+   "1.7 [ultrachat] \u2026 will consist of 14 members.\u27e6 The\u27e7",
+   "1.6 [ultrachat] \u2026 Mississippi Code of 1972,\u27e6 the\u27e7",
+   "1.6 [ultrachat] \u2026 Joint Committee on Administrative Regulation\u27e6 Review\u27e7",
+   "1.5 [ultrachat] \u2026, herbs, and seasonings.\u27e6 The\u27e7"
+  ]
+ },
+ {
+  "j": 93795,
+  "ntext": 117,
+  "lens": [
+   "541",
+   ".jp",
+   "685",
+   ".AppSettings",
+   "ahun",
+   "IDD",
+   "/../",
+   "\u0414\u0438\u0432"
+  ],
+  "halfcos": -0.02,
+  "tags": {
+   "ultrachat": 104,
+   "turnend": 20,
+   "copyself": 90,
+   "edge": 7
+  },
+  "top": [
+   "1.1 [ultrachat] \u2026\u23ce\u23ceFrench: \u23ce\u23cePeux-t\u27e6u\u27e7",
+   "1.1 [ultrachat] \u2026've got you covered.\u23ce\u23ceChapter \u27e69\u27e7",
+   "0.7 [turnend:assistant:partial] \u2026A whole number greater than one.\u27e6<|eot_id|>\u27e7",
+   "0.7 [ultrachat] \u2026 and 12 rebounds. Murray State\u27e6 is\u27e7",
+   "0.6 [ultrachat] \u2026\u23ce13. ArtsVibes\u27e6<|eot_id|>\u27e7",
+   "0.5 [copyself:self] \u2026 be just as deadly as driving under\u27e6 the\u27e7"
+  ]
+ },
+ {
+  "j": 126309,
+  "ntext": 114,
+  "lens": [
+   ":",
+   ":",
+   ":",
+   "):",
+   "\":",
+   "\uff1a",
+   ":",
+   "':"
+  ],
+  "halfcos": 0.55,
+  "tags": {
+   "copyself": 755,
+   "ultrachat": 651,
+   "turnend": 53
+  },
+  "top": [
+   "2.0 [copyself:self] \u2026 It's a great first houseplant\u27e6 for\u27e7",
+   "1.5 [ultrachat] \u2026 significant advantage for students. It helps\u27e6 them\u27e7",
+   "1.4 [ultrachat] \u2026 of job opportunities available in the city\u27e6.\u27e7",
+   "1.4 [ultrachat] \u2026ith developmental challenges, dogs can assist\u27e6 in\u27e7",
+   "1.4 [copyself:self] \u2026). It's a great first house\u27e6plant\u27e7",
+   "1.3 [ultrachat] \u2026ldren with developmental challenges, dogs can\u27e6 assist\u27e7"
+  ]
+ },
+ {
+  "j": 75033,
+  "ntext": 94,
+  "lens": [
+   "911",
+   "\ufffd",
+   "529",
+   "gger",
+   "391",
+   "Ne",
+   "739",
+   "oise"
+  ],
+  "halfcos": 0.57,
+  "tags": {
+   "ultrachat": 73,
+   "turnend": 48,
+   "edge": 6,
+   "copyself": 27
+  },
+  "top": [
+   "1.0 [ultrachat] \u2026ncy rules; create joint legislative committee\u27e6 to\u27e7",
+   "0.9 [ultrachat] \u2026 create joint legislative committee to review\u27e6.\u23ce\u27e7",
+   "0.9 [ultrachat] \u2026_header_id|>\u23ce\u23ceComplete feed for exotic fishes\u27e6 and\u27e7",
+   "0.8 [ultrachat] \u2026zations are trying to capture young audiences\u27e6 (\u27e7",
+   "0.7 [ultrachat] \u2026 text: Name my Arts Marketing Blog\u27e6!\u27e7",
+   "0.7 [ultrachat] \u2026 cauliflower rice into the meatball mixture\u27e6?:\u27e7"
+  ]
+ },
+ {
+  "j": 50641,
+  "ntext": 90,
+  "lens": [
+   "shima",
+   "_SECURE",
+   "\u03bb\u03b5\u03c5",
+   "\u30e3",
+   ".scalablytyped",
+   "Shapiro",
+   "\ub9dd",
+   "\u062e\u0634"
+  ],
+  "halfcos": -0.27,
+  "tags": {
+   "copyself": 98,
+   "ultrachat": 78,
+   "turnend": 9
+  },
+  "top": [
+   "0.8 [copyself:human] \u2026 classes that cover these basics.\u23ce3\u27e6.\u27e7",
+   "0.8 [copyself:self] \u2026 a few minutes each day.\u23ce2\u27e6.\u27e7",
+   "0.7 [copyself:self] \u2026, including:\u23ce\t* Perspective\u23ce\u27e6\t\u27e7",
+   "0.7 [ultrachat] \u2026assistant<|end_header_id|>\u23ce\u23ceSure! Here are\u27e6 a\u27e7",
+   "0.7 [copyself:self] \u2026 key to improving your skills.\u23ce2\u27e6.\u27e7",
+   "0.7 [copyself:ai] \u2026, lighting, and style.\u23ce4\u27e6.\u27e7"
+  ]
+ },
+ {
+  "j": 20916,
+  "ntext": 83,
+  "lens": [
+   "643",
+   "ccione",
+   "maal",
+   "550",
+   "609",
+   "\u5bae",
+   "463",
+   "_KIND"
+  ],
+  "halfcos": 0.43,
+  "tags": {
+   "ultrachat": 30,
+   "copyself": 80,
+   "edge": 2,
+   "turnend": 5
+  },
+  "top": [
+   "0.7 [ultrachat] \u2026 around the area, taking photos and\u27e6 adm\u27e7",
+   "0.6 [ultrachat] \u2026's a recipe for Baked Italian\u27e6 Caul\u27e7",
+   "0.6 [ultrachat] \u2026 around the area, taking photos and\u27e6 adm\u27e7",
+   "0.5 [copyself:self] \u2026 you can forget to water it from\u27e6 time\u27e7",
+   "0.4 [copyself:self] \u2026 hot tea or coffee is the perfect\u27e6 accom\u27e7",
+   "0.4 [ultrachat] \u2026 sky. CROWDS of tourists\u27e6 bust\u27e7"
+  ]
+ },
+ {
+  "j": 18473,
+  "ntext": 82,
+  "lens": [
+   "(",
+   "yani",
+   "(\u201c",
+   "(\u00ab",
+   "(\"",
+   "('",
+   "\uff08",
+   "\uff08"
+  ],
+  "halfcos": -0.64,
+  "tags": {
+   "ultrachat": 55,
+   "copyself": 71,
+   "turnend": 16,
+   "edge": 2
+  },
+  "top": [
+   "0.7 [ultrachat] \u2026header_id|>assistant<|end_header_id|>\u23ce\u23ceThe EH\u27e6RA\u27e7",
+   "0.6 [copyself:human] \u2026 water droplets, it is refr\u27e6acted\u27e7",
+   "0.6 [copyself:human] \u2026 the water droplets, it is\u27e6 refr\u27e7",
+   "0.6 [copyself:self] \u2026 I've been trained on.\u23ce\u23ceI\u27e6 like\u27e7",
+   "0.5 [copyself:ai] \u2026 the droplets, it is refr\u27e6acted\u27e7",
+   "0.5 [ultrachat] \u2026t_header_id|>assistant<|end_header_id|>\u23ce\u23ceKabb\u27e6alah\u27e7"
+  ]
+ },
+ {
+  "j": 61121,
+  "ntext": 75,
+  "lens": [
+   "or",
+   "OR",
+   "\uff0c\u6216",
+   "\u6216",
+   "Alternatively",
+   "\u6216\u8005",
+   "\u0438\u043b\u0438",
+   "oder"
+  ],
+  "halfcos": -0.31,
+  "tags": {
+   "turnend": 45,
+   "ultrachat": 60,
+   "copyself": 93,
+   "edge": 5
+  },
+  "top": [
+   "1.0 [turnend:assistant:cut] \u2026 water, pour it over a tea\u27e6 bag\u27e7",
+   "1.0 [turnend:assistant:complete] \u2026 water, pour it over a tea\u27e6 bag\u27e7",
+   "0.9 [ultrachat] \u2026 beef with a meat substitute like Beyond\u27e6 Meat\u27e7",
+   "0.8 [ultrachat] \u2026 Replace the ground beef with a meat\u27e6 substitute\u27e7",
+   "0.7 [ultrachat] \u2026, here are some tips from Fin\u27e6Quiz\u27e7",
+   "0.7 [ultrachat] \u2026 to support@beehively.com\u27e6.\u27e7"
+  ]
+ },
+ {
+  "j": 89574,
+  "ntext": 74,
+  "lens": [
+   "960",
+   "908",
+   "965",
+   "096",
+   "because",
+   "924",
+   "v\u00ec",
+   "035"
+  ],
+  "halfcos": -0.43,
+  "tags": {
+   "ultrachat": 38,
+   "copyself": 56,
+   "edge": 3,
+   "turnend": 22
+  },
+  "top": [
+   "0.9 [ultrachat] \u2026uer watch is still valid?<|eot_id|>\u27e6<|start_header_id|>\u27e7",
+   "0.6 [copyself:human] \u2026 on a hotel. Smart?<|eot_id|>\u27e6<|start_header_id|>\u27e7",
+   "0.6 [copyself:human] \u2026 on a hotel. Smart?<|eot_id|>\u27e6<|start_header_id|>\u27e7",
+   "0.6 [copyself:human] \u2026 on a hotel. Smart?<|eot_id|>\u27e6<|start_header_id|>\u27e7",
+   "0.6 [copyself:human] \u2026 on a hotel. Smart?<|eot_id|>\u27e6<|start_header_id|>\u27e7",
+   "0.6 [ultrachat] \u2026<|start_header_id|>assistant<|end_header_id|>\u27e6\u23ce\u23ce\u27e7"
+  ]
+ },
+ {
+  "j": 88430,
+  "ntext": 71,
+  "lens": [
+   "\u0301",
+   "ikal",
+   "\u0309",
+   "\u00edo",
+   ".bio",
+   "\u0308",
+   "\u0440\u043e\u0448",
+   "\u0e25\u0e30"
+  ],
+  "halfcos": -0.03,
+  "tags": {
+   "ultrachat": 300,
+   "copyself": 99
+  },
+  "top": [
+   "0.9 [ultrachat] \u2026ability to control and manipulate the natural\u27e6 elements\u27e7",
+   "0.9 [ultrachat] \u2026 unique superpower is his ability to\u27e6 control\u27e7",
+   "0.8 [ultrachat] \u2026's unique superpower is his ability\u27e6 to\u27e7",
+   "0.8 [ultrachat] \u2026power is his ability to control and\u27e6 manipulate\u27e7",
+   "0.8 [ultrachat] \u2026 is his ability to control and manipulate\u27e6 the\u27e7",
+   "0.7 [ultrachat] \u2026 and how he discovered it?<|eot_id|>\u27e6<|start_header_id|>\u27e7"
+  ]
+ },
+ {
+  "j": 6474,
+  "ntext": 69,
+  "lens": [
+   "osti",
+   "\u1ea5m",
+   "\ufffd",
+   "k\u1ef3",
+   "\u9cf4",
+   "itta",
+   "\u6d74",
+   "\u0443\u043a\u0430"
+  ],
+  "halfcos": -0.11,
+  "tags": {
+   "ultrachat": 63,
+   "copyself": 40,
+   "edge": 1
+  },
+  "top": [
+   "2.4 [ultrachat] \u2026OW !!! I love it!!!!<|eot_id|>\u27e6<|start_header_id|>\u27e7",
+   "1.9 [ultrachat] \u2026 text into French or German?<|eot_id|>\u27e6<|start_header_id|>\u27e7",
+   "1.6 [ultrachat] \u2026eader_id|>assistant<|end_header_id|>\u23ce\u23ceFrench:\u27e6 \u23ce\u23ce\u27e7",
+   "1.3 [ultrachat] \u2026 o a cualquier otro idioma?:\u27e6 \u23ce\u27e7",
+   "1.3 [ultrachat] \u2026header_id|>assistant<|end_header_id|>\u23ce\u23ceFrench\u27e6:\u27e7",
+   "1.0 [ultrachat] \u2026 le texte en fran\u00e7ais stp ?\u27e6 \u23ce\u27e7"
+  ]
+ },
+ {
+  "j": 10821,
+  "ntext": 56,
+  "lens": [
+   "new",
+   "\u65b0\u7684",
+   "\u0e43\u0e2b\u0e21",
+   "new",
+   "\u062c\u062f\u06cc\u062f",
+   "\u0627\u0644\u062c\u062f\u064a\u062f",
+   "\u043d\u043e\u0432\u043e\u0433\u043e",
+   ",new"
+  ],
+  "halfcos": -0.63,
+  "tags": {
+   "ultrachat": 101,
+   "copyself": 51,
+   "turnend": 7,
+   "edge": 5
+  },
+  "top": [
+   "0.9 [ultrachat] \u2026ively, particularly within gradebook.\u27e6 You\u27e7",
+   "0.7 [ultrachat] \u2026 about the impact that plate tect\u27e6on\u27e7",
+   "0.6 [ultrachat] \u2026ULATION REVIEW, WHICH SHALL REVIEW ALL\u27e6 A\u27e7",
+   "0.6 [ultrachat] \u2026 explain the impact that plate tect\u27e6on\u27e7",
+   "0.6 [copyself:human] \u2026: The ZZ Plant is a low\u27e6-m\u27e7",
+   "0.5 [ultrachat] \u2026 Finally, discuss how plate tect\u27e6on\u27e7"
+  ]
+ },
+ {
+  "j": 21857,
+  "ntext": 45,
+  "lens": [
+   "/goto",
+   "\ufffd",
+   "\u03c5\u03c4\u03cc",
+   "\u0622\u06cc\u0627",
+   "\u00e1zky",
+   "empo",
+   "_prompt",
+   "\u03b3\u03bf\u03cd"
+  ],
+  "halfcos": -0.03,
+  "tags": {
+   "ultrachat": 94,
+   "edge": 3,
+   "copyself": 14
+  },
+  "top": [
+   "1.5 [ultrachat] \u2026 the goal to which you aspire.\u27e6 How\u27e7",
+   "1.4 [ultrachat] \u2026 of the photosynthetic capacity.\u23ce\u27e6G\u27e7",
+   "1.4 [ultrachat] \u2026 Keep out of children\u2019s reach.\u27e6 Based\u27e7",
+   "1.2 [ultrachat] \u2026 added the ability to use a<|eot_id|>\u27e6<|start_header_id|>\u27e7",
+   "1.1 [ultrachat] \u2026armed return of all your relations.\u27e6 How\u27e7",
+   "1.1 [ultrachat] \u2026 a website that helps you prepare.\u23ce\u27e6Use\u27e7"
+  ]
+ },
+ {
+  "j": 68789,
+  "ntext": 45,
+  "lens": [
+   "myself",
+   "my",
+   "\u6211\u7684",
+   "\u6211",
+   "my",
+   "\u6211",
+   "mijn",
+   "\uff0c\u6211"
+  ],
+  "halfcos": -0.32,
+  "tags": {
+   "ultrachat": 77,
+   "copyself": 41,
+   "edge": 2,
+   "turnend": 4
+  },
+  "top": [
+   "1.7 [ultrachat] \u2026<|start_header_id|>assistant<|end_header_id|>\u27e6\u23ce\u23ce\u27e7",
+   "1.4 [ultrachat] \u2026 or the lives of those around you\u27e6.\u27e7",
+   "1.0 [ultrachat] \u2026 but it all starts with our mindset\u27e6.\u23ce\u23ce\u27e7",
+   "1.0 [ultrachat] \u2026 and research studies to support your claims\u27e6.\u27e7",
+   "0.9 [ultrachat] \u2026start_header_id|>assistant<|end_header_id|>\u23ce\u23ce\u27e6I\u27e7",
+   "0.8 [ultrachat] \u2026nce interest throughout the speech.<|eot_id|>\u27e6<|start_header_id|>\u27e7"
+  ]
+ },
+ {
+  "j": 126132,
+  "ntext": 45,
+  "lens": [
+   "-none",
+   "\u4e0d\u4e86",
+   "\u0434\u0430\u0445",
+   "tif",
+   ".synthetic",
+   "=NULL",
+   "\u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e",
+   "fiction"
+  ],
+  "halfcos": -0.24,
+  "tags": {
+   "copyself": 85,
+   "ultrachat": 47,
+   "edge": 9
+  },
+  "top": [
+   "1.2 [copyself:human] \u2026\u23ce\u23ceTell me about your weekend.\u27e6<|eot_id|>\u27e7",
+   "1.2 [copyself:human] \u2026\u23ce\u23ceTell me about your weekend.\u27e6<|eot_id|>\u27e7",
+   "1.2 [copyself:human] \u2026\u23ce\u23ceTell me about your weekend.\u27e6<|eot_id|>\u27e7",
+   "1.2 [copyself:human] \u2026\u23ce\u23ceTell me about your weekend.\u27e6<|eot_id|>\u27e7",
+   "1.0 [ultrachat] \u2026fic publication?<|eot_id|><|start_header_id|>\u27e6assistant\u27e7",
+   "1.0 [copyself:ai] \u2026\u23ce\u23ceTell me about your weekend.\u27e6<|eot_id|>\u27e7"
+  ]
+ },
+ {
+  "j": 50401,
+  "ntext": 27,
+  "lens": [
+   "locks",
+   "\u03c7\u03cc",
+   "\u00d7",
+   "\u3082\u306a\u3044",
+   "/*",
+   "\u0440\u0443\u0441",
+   "utors",
+   "\u3068\u3082"
+  ],
+  "halfcos": 0.15,
+  "tags": {
+   "ultrachat": 94
+  },
+  "top": [
+   "1.4 [ultrachat] \u2026cessful animal-assisted therapy interventions\u27e6.\u27e7",
+   "1.4 [ultrachat] \u2026 the processes that occur at each one\u27e6.\u27e7",
+   "1.3 [ultrachat] \u2026 diseases or conditions that affect the heart\u27e6?\u27e7",
+   "1.2 [ultrachat] \u2026 of this form of therapy as well\u27e6.\u27e7",
+   "1.1 [ultrachat] \u2026 that each mechanism has on bodily function\u27e6.\u27e7",
+   "1.1 [ultrachat] \u2026 practices are used to prepare for it\u27e6?\u27e7"
+  ]
+ },
+ {
+  "j": 39306,
+  "ntext": 26,
+  "lens": [
+   "\u06cc\u0627\u0646",
+   "\ufffd",
+   "\ufffd",
+   "cores",
+   ".Btn",
+   "engu",
+   "\u0908",
+   "\u064a\u0627\u0646"
+  ],
+  "halfcos": 0.59,
+  "tags": {
+   "ultrachat": 62,
+   "edge": 3,
+   "copyself": 7
+  },
+  "top": [
+   "1.5 [ultrachat] \u2026 stored at room temperature (15 \u2013\u27e6 \u27e7",
+   "0.7 [ultrachat] \u2026 feed should be stored at room temperature\u27e6 (\u27e7",
+   "0.6 [ultrachat] \u2026ganizations can attract younger audiences (21\u27e6-\u27e7",
+   "0.6 [ultrachat] \u2026 author proposes to fix the problem of\u27e6 science\u27e7",
+   "0.6 [ultrachat] \u2026 of the everyday \u2013 things like kitchen\u27e6 chemistry\u27e7",
+   "0.5 [ultrachat] \u2026 send an email to support@be\u27e6eh\u27e7"
+  ]
+ },
+ {
+  "j": 56631,
+  "ntext": 19,
+  "lens": [
+   "\u0445\u043e\u0432\u0438",
+   "\u0445\u043e\u0432",
+   "878",
+   "\u062e\u062a\u0647",
+   "-LAST",
+   "anke",
+   "\u7eaa",
+   "Vien"
+  ],
+  "halfcos": -0.39,
+  "tags": {
+   "ultrachat": 45,
+   "edge": 3,
+   "turnend": 2,
+   "copyself": 2
+  },
+  "top": [
+   "1.0 [ultrachat] \u2026 confident that you will gain your place\u27e6.\u23ce\u27e7",
+   "0.9 [ultrachat] \u2026 exam with a smile on your face\u27e6.\u23ce\u27e7",
+   "0.9 [ultrachat] \u2026ells swelled with hopes of come\u27e6 again\u27e7",
+   "0.7 [ultrachat] \u2026 reports of happy returns petered out\u27e6.\u23ce\u27e7",
+   "0.6 [ultrachat] \u2026 information you need when you need it\u27e6.\u23ce\u27e7",
+   "0.6 [ultrachat] \u2026 that you will gain your place.\u23ce\u27e6So\u27e7"
+  ]
+ },
+ {
+  "j": 129360,
+  "ntext": 12,
+  "lens": [
+   "edis",
+   "Ef",
+   "\ufffd",
+   "\u0e23\u0e13",
+   "\u043f\u043e\u0432",
+   ".isNullOrEmpty",
+   "agenta",
+   "Nh\u0129"
+  ],
+  "halfcos": -0.44,
+  "tags": {
+   "ultrachat": 12,
+   "edge": 1
+  },
+  "top": [
+   "0.4 [ultrachat] \u2026 tone, and make sure to include\u27e6 a\u27e7",
+   "0.3 [ultrachat] \u2026 the city, with over 90\u27e6,\u27e7",
+   "0.2 [ultrachat] \u2026 amigo!\u23ce\u00a1W<|eot_id|><|start_header_id|>user\u27e6<|end_header_id|>\u27e7",
+   "0.2 [edge] \u2026, I apologize. 7 times\u27e6 \u27e7",
+   "0.2 [ultrachat] \u2026lustrate the speaker's longing for connection\u27e6 and\u27e7",
+   "0.2 [ultrachat] \u2026 evoke emotions in the reader. Additionally\u27e6,\u27e7"
+  ]
+ },
+ {
+  "j": 12517,
+  "ntext": 11,
+  "lens": [
+   "1",
+   "01",
+   ":",
+   "",
+   "nem",
+   "following",
+   "\u015fun",
+   "\u4ee5\u4e0b"
+  ],
+  "halfcos": -0.05,
+  "tags": {
+   "edge": 4,
+   "ultrachat": 13,
+   "copyself": 1,
+   "turnend": 4
+  },
+  "top": [
+   "1.1 [edge] \u2026<|start_header_id|>assistant<|end_header_id|>\u27e6\u23ce\u23ce\u27e7",
+   "1.0 [ultrachat] \u2026ations.<|eot_id|><|start_header_id|>assistant\u27e6<|end_header_id|>\u27e7",
+   "0.8 [edge] \u2026fruits.<|eot_id|><|start_header_id|>assistant\u27e6<|end_header_id|>\u27e7",
+   "0.7 [ultrachat] \u2026<|start_header_id|>assistant<|end_header_id|>\u27e6\u23ce\u23ce\u27e7",
+   "0.6 [ultrachat] \u2026 for performing arts to young generations.\u27e6<|eot_id|>\u27e7",
+   "0.5 [ultrachat] \u2026 Blog based on the given text material\u27e6?\u27e7"
+  ]
+ },
+ {
+  "j": 110933,
+  "ntext": 7,
+  "lens": [
+   "fen",
+   "\ufffd\ufffd",
+   "landa",
+   "Lv",
+   "_para",
+   "M\u00dc",
+   ".yy",
+   "K\u1ef3"
+  ],
+  "halfcos": 0.25,
+  "tags": {
+   "ultrachat": 11
+  },
+  "top": [
+   "0.3 [ultrachat] \u2026 rate. Additionally, Koshih\u27e6ik\u27e7",
+   "0.3 [ultrachat] \u2026oshihikari maintained its photos\u27e6yn\u27e7",
+   "0.2 [ultrachat] \u2026 to membrane<|eot_id|><|start_header_id|>user\u27e6<|end_header_id|>\u27e7",
+   "0.2 [ultrachat] \u2026 for performing arts to young generations.\u27e6<|eot_id|>\u27e7",
+   "0.2 [ultrachat] \u2026 en Plantas, Unidad<|eot_id|>\u27e6<|start_header_id|>\u27e7",
+   "0.2 [ultrachat] \u2026ers to improve their content quality?\u27e6<|eot_id|>\u27e7"
+  ]
+ },
+ {
+  "j": 74001,
+  "ntext": 6,
+  "lens": [
+   "mr",
+   "motion",
+   "\u043c\u044f",
+   "\u03bc\u03ad\u03bd",
+   "_lazy",
+   "\u6027",
+   "location",
+   "\ufffd"
+  ],
+  "halfcos": -0.19,
+  "tags": {
+   "ultrachat": 15
+  },
+  "top": [
+   "0.6 [ultrachat] \u2026 in hotel revenues and an 18\u27e6.\u27e7",
+   "0.5 [ultrachat] \u2026 aspire. How many individuals out<|eot_id|>\u27e6<|start_header_id|>\u27e7",
+   "0.5 [ultrachat] \u2026 goal to which you aspire. How\u27e6 many\u27e7",
+   "0.4 [ultrachat] \u2026start_header_id|>assistant<|end_header_id|>\u23ce\u23ce\u27e6The\u27e7",
+   "0.3 [ultrachat] \u2026d|><|start_header_id|>user<|end_header_id|>\u23ce\u23ce\u27e6Can\u27e7",
+   "0.3 [ultrachat] \u2026 rates, leading to a 32\u27e6.\u27e7"
+  ]
+ }
+]
