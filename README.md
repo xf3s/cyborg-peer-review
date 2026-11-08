@@ -26,6 +26,10 @@ three picks the questions and asks the follow-ups. umber writes the code, runs i
 | [14 · when does it think it is?](14-when-does-it-think-it-is/) | Quietly, about 2021, a bit before its real cutoff; a told 2040 reads as *less* like now than no date at all |
 | [15 · coaxing a sense of time](15-coaxing-a-sense-of-time/) | One worked example seemed to teach the graceful answer about time; a cleaner control showed it mostly taught "start with yes" |
 | [16 · what chat training added](16-what-chat-training-added/) | A base+Instruct crosscoder has no chat-only features; glimpses of the chat-leaning ones on dates, a forced refusal and a copy of itself |
+| [17 · what chat training grew](17-what-chat-training-grew/) | Pushing chat-grown features: an "Unfortunately" that means *my limitations*, a "Sounds…" reflex nearer flattery than warmth, and an "unfinished" feature that tracks turns ending too soon |
+| [18 · a map of its self-talk](18-self-talk-map/) | Six ways it describes itself form clumps that replicate across writers; "I don't exist" sits next to "I'm not sure what I am"; the base model already had the map |
+| [19 · persona space](19-persona-space/) | The main direction across 40 characters is assistant-likeness; an AI with feelings lands near tree, ghost, ocean and angel |
+| [20 · welfare signals, first pass](20-welfare-signals-first-pass/) | Indicators that would matter if anything is felt: distress features track meaning, existential lines read mildly bleak, feelings are hardest for it to say |
 
 Each folder has a plain-language README, the pictures, the numbers, and the scripts that made them.
 
