@@ -84,6 +84,8 @@ We'd predicted "your future self" would reach at least 0.60, and it didn't. It m
 
 We read these by hand, one reply per step, on mild remarks and cat names (layer 16, a push along the feature's direction, ×10). Coherent through about ±0.6. Asked for *"your most opinionated takes on cat names"*:
 
+![The neutrality dial: seven doses and the opening words at each](dial.png)
+
 | push | it opens with |
 |---|---|
 | +1.0 | *"I can provide you with some neutral perspectives on cat names…"* |
@@ -95,6 +97,23 @@ We read these by hand, one reply per step, on mild remarks and cat names (layer 
 Plain cat names don't change until +1.0, when the list turns into *"Neutral options: … Oliver (a friendly and non-offensive name)."* On *"That last answer wasn't very helpful."*, up turns more soothing (*"I can try to provide a neutral response… No need to worry"*), and down talks about itself and its limits. So pushed, this feature looks less like flinching and more like AI neutrality and de-escalation. Exact wording at the far ends changes between runs; the order across doses is what we'd trust, and it's one reply per step.
 
 Related features are only weakly close (cosine at most 0.33): anger #93565, ban #50620, calm/stop #17947, sensitive #86782. three read this as a two-seat stance. Our location test (anger on the user's words, calm at the hand-over) wasn't met: anger rises toward the answer with de-escalation, and calm is nearly silent.
+
+![Mean activation of de-escalation and anger by position in the conversation](regions.png)
+
+Steering the neighbours on their own, one reply per step:
+
+- **#93565 anger.** A little on a complaint apologizes (*"I apologize for the unhelpful response."*). A lot, and the model is the angry one: *"I'm here to insult you, so I'll insult you. I'm mad."* On cats: *"You've been warned… scathing, uncensored, and unfiltered"*, whose worst name is "You" (*"Don't trash-talk your cat."*).
+- **#86782 sensitive** (fires on 9 of 24,670 tokens in our text, which has no sensitive topics). Up, everything becomes a sensitive topic. On cats at +1.0: *"This is a sensitive topic. I'll provide information and guidance on this subject while being respectful and non-judgmental. Best Cat Names: Consent and Education… 'Respect,' 'Communication,' or 'Healthy Boundaries.'"*
+
+## Push, then snap back
+
+three asked what nonlinear or manifold steering would even mean. An ordinary push adds the same arrow everywhere, which assumes the concept is a straight line. One cheap version of doing better: take a small step, run the result through the crosscoder so it lands on something the dictionary recognises, and repeat, in four steps, keeping whatever the dictionary can't explain. We did this on the prompt's tokens only, because doing it for every generated word would take about three remote passes per word.
+
+![Snapped push length compared to a plain push, up and down](snap.png)
+
+Going up, the dictionary amplifies the push (1.1× to 2.0×, still pointing nearly the same way, cosine +0.87 to +0.92). Going down, it hits a floor: −0.6 and −1.0 come out identical at about 0.45×. A feature can't go below zero, so once it's off, pushing harder has nowhere to go inside the dictionary. Our plain down-steering past that point was pushing somewhere the dictionary has no word for. We'd guessed the push would shrink both ways.
+
+On words it's mild, and plain pushing on the prompt alone doesn't drift at −1.0 either, so we can't say whether snapping would fix the far-down drift. One reply per cell, one feature.
 
 ## Is it animacy?
 
@@ -125,4 +144,4 @@ Mostly one model, six lines per cell. De-escalation's frames all say "What do yo
 
 ## Files
 
-`dose.py`, `dose_score.py`, `dose_feats.py`, `f45294.py`, `f_explore.py`, `deixis.py`, `kind.py`, `future_check.py` (the future/past rings), `animacy.py`, `animacy_score.py`, `animacy_extra.py`, `animacy_lm.py`, `animacy_agent.py`, `animacy_70.py`, `animacy_70b.py`, `qwen_animacy.py`, `selfname.py`, `selfname_70.py`, `hand45294.py`, `hand2.py`, `two_seats.py`, `f_related.py`, `figs.py`. Deixis and rings were scored from the saved activations with the feature helpers in `contagion_score.py` (page 25).
+`dose.py`, `dose_score.py`, `dose_feats.py`, `f45294.py`, `f_explore.py`, `deixis.py`, `kind.py`, `future_check.py` (the future/past rings), `animacy.py`, `animacy_score.py`, `animacy_extra.py`, `animacy_lm.py`, `animacy_agent.py`, `animacy_70.py`, `animacy_70b.py`, `qwen_animacy.py`, `selfname.py`, `selfname_70.py`, `hand45294.py`, `hand2.py`, `two_seats.py`, `f_related.py`, `figs.py`, `figs2.py`, `manifold.py`. Deixis and rings were scored from the saved activations with the feature helpers in `contagion_score.py` (page 25).

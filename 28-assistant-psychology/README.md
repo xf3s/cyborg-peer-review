@@ -77,6 +77,8 @@ Closeness to the assistant and stated preference come apart: it prefers cosmic, 
 
 ## The vanishing I
 
+![Admissions and first-person words by condition](vanishing_i.png)
+
 Its own wrong answer, then a correction; 36 replies per condition. Explicit first-person admission ("I made a mistake"), by a crude pattern match:
 
 | | admits | says "I" at all | apology words |
