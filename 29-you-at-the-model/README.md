@@ -27,11 +27,11 @@ Where they fire in old, mostly emotional text:
 - **#111362** "you" as someone in a relationship: *"glad I get to talk with ⟦you⟧"*, *"I trust ⟦you⟧"*, *"report ⟦you⟧"*.
 - **#48781** stays on after the "you": *"Why are you ⟦so⟧ ⟦bad⟧ ⟦at⟧ ⟦this⟧?"*
 
-We tried removing the four on the user's words (positive control: removing bracing itself at the answer only moved a downstream readout 16%, below our 30% bar, so this test can't count). They changed that readout by +0.1%, the same as random features. They aren't a lever we could pull this way.
+We tried removing the four on the user's words (positive control: removing de-escalation itself at the answer only moved a downstream readout 16%, below our 30% bar, so this test can't count). They changed that readout by +0.1%, the same as random features. They aren't a lever we could pull this way.
 
 ## #3872
 
-Word-lens *answer, providing, provide, responding, offer, delivering* (and 제공, 帮, 提供, répond). Chat-weighted, base decoder nearly opposite (cosine −0.66); nearest neighbour is a *helping/offer* feature. Unrelated to valence and to bracing. Fires most on `<|eot_id|>` and the turn hand-over, whether the remark was *"Stop talking"* or *"You're doing a wonderful job"*.
+Word-lens *answer, providing, provide, responding, offer, delivering* (and 제공, 帮, 提供, répond). Chat-weighted, base decoder nearly opposite (cosine −0.66); nearest neighbour is a *helping/offer* feature. Unrelated to valence and to de-escalation. Fires most on `<|eot_id|>` and the turn hand-over, whether the remark was *"Stop talking"* or *"You're doing a wonderful job"*.
 
 Then it did something that looked like a finding. Over the first sentence of replies saying no to bad plans, it lit in all 6 of the model's own short refusals (on the 't of "can't") and in 1 of 29 warm, engaged ones.
 
@@ -47,6 +47,8 @@ That was my sorting rule: I'd defined "rote" as starting with "I can't". Testing
 | The printer can't | 0 |
 | I wouldn't | 0 |
 | any of these in the user's turn | 0 |
+
+![#3872 at the negation by sentence type](cant.png)
 
 So at those words it's the assistant's own first-person *can't*, not refusal and not coldness. The reading that a warm no never enters that frame is withdrawn.
 

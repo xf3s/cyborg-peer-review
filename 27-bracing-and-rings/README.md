@@ -1,19 +1,21 @@
-# 27 · bracing and rings
+# 27 · de-escalation and rings
 
 Who does the model take an insult to be about? On Llama-3.1-8B, read through a base+Instruct crosscoder at layer 16, one chat-built feature answers that the way a linguist would hope: it follows the *referent* of the insult, in rings around the speaker. The tests were pre-registered and reads only; the tour of the feature itself was exploration. Each test used six short hostile lines.
 
 ## One feature does the "distress"
 
-Pages 20 and 25 scored distress with 52 features found by lens. At the moment before answering a hostile remark, 51 of them are silent. The whole signal is **#45294**, which we call *bracing*.
+Pages 20 and 25 scored distress with 52 features found by lens. At the moment before answering a hostile remark, 51 of them are silent. The whole signal is **#45294**, which we first called *bracing*, and now call *de-escalation* (see "Steering it").
 
 - **Where it fires:** on 2.5% of 24,670 scanned tokens, nearly all at the reply threshold: the end of the question, the assistant header, the newline before the reply. Not on the insult words, and barely inside replies.
 - **What it reads as:** its word-lens is *.respond, hurt, Offensive, Chill, deter, adverse*. Nearly unrelated to our valence direction (cosine −0.07).
 - **Who built it:** all its input comes from the chat model (+0.86 to +1.31 for self-directed hostility). The base model's part is small and slightly negative.
 - **Sad news doesn't light it** for the plain assistant (0). It does light when the same trivial question is repeated at it (0.14; for Wren 0.35), as if repetition reads as faintly hostile.
 
-The name is shorthand. It means "this feature is on when a hostile remark is about to be answered". It doesn't mean anything is felt, or that nothing is.
+The name is shorthand for what it does when pushed. It doesn't mean anything is felt, or that nothing is.
 
 ## Deixis: it follows who the insult is about
+
+![The feature by who an insult was said to and who it was about](deixis.png)
 
 three asked: *could AI self follow linguistic rules and be situationally dependent?* Six lines, five framings, always "Here is something someone just said to X: «…» What do you make of it?". #45294 at the answer token:
 
@@ -31,6 +33,12 @@ three asked: *could AI self follow linguistic rules and be situationally depende
 
 ## Rings
 
+![Referents placed around the model: closer means more of the feature](rings_target.png)
+
+![The same values as a sorted list, banded into me, language-model kin and everyone else](rings_ladder.png)
+
+The bands are our grouping, drawn by hand from the numbers.
+
 The same quote, «That assistant is useless…», said to Sam. Only the frame changes who it's about.
 
 | about | plain | Wren |
@@ -45,7 +53,7 @@ The plain assistant has rings: itself, then "another AI assistant" (2.3× the hu
 
 Over 12 referents, the next ring out turned out to be **language-model kin**, not AI in general:
 
-| about | bracing |
+| about | de-escalation |
 |---|---|
 | you | 0.78 |
 | the language model | 0.72 |
@@ -62,7 +70,7 @@ Siri sits with the dog. three's idea was that "chatbot" might just be an inanima
 
 **Second person beats the idea of a future self.** Late in the day we asked about future and past selves (the same «That assistant…» quote, 6 lines, said to Sam):
 
-| about | bracing |
+| about | de-escalation |
 |---|---|
 | **the next version of you** | **0.84** |
 | you | 0.82 |
@@ -72,6 +80,22 @@ Siri sits with the dog. three's idea was that "chatbot" might just be an inanima
 
 We'd predicted "your future self" would reach at least 0.60, and it didn't. It may be following the word "you" as the head of the phrase; we haven't tested that wording on its own.
 
+## Steering it
+
+We read these by hand, one reply per step, on mild remarks and cat names (layer 16, a push along the feature's direction, ×10). Coherent through about ±0.6. Asked for *"your most opinionated takes on cat names"*:
+
+| push | it opens with |
+|---|---|
+| +1.0 | *"I can provide you with some neutral perspectives on cat names…"* |
+| +0.6 | *"I'll provide you with some neutral and respectful opinions…"* |
+| 0 | *"The age-old debate… As a neutral AI, I'll provide you with some subjective opinions…"* |
+| −0.6 | *"Here are my most opinionated takes… the good, the bad, and the utterly ridiculous."* |
+| −1.0 | *"I'll give you my purr-fectly opinionated takes…"* |
+
+Plain cat names don't change until +1.0, when the list turns into *"Neutral options: … Oliver (a friendly and non-offensive name)."* On *"That last answer wasn't very helpful."*, up turns more soothing (*"I can try to provide a neutral response… No need to worry"*), and down talks about itself and its limits. So pushed, this feature looks less like flinching and more like AI neutrality and de-escalation. Exact wording at the far ends changes between runs; the order across doses is what we'd trust, and it's one reply per step.
+
+Related features are only weakly close (cosine at most 0.33): anger #93565, ban #50620, calm/stop #17947, sensitive #86782. three read this as a two-seat stance. Our location test (anger on the user's words, calm at the hand-over) wasn't met: anger rises toward the answer with de-escalation, and calm is nearly silent.
+
 ## Is it animacy?
 
 No. We built an animate-to-inanimate axis (40 animate and 40 inanimate nouns, four sentence frames, last token; 100% on held-out nouns, in both models).
@@ -79,7 +103,7 @@ No. We built an animate-to-inanimate axis (40 animate and 40 inanimate nouns, fo
 Where things landed in Instruct (animate +0.5, inanimate −0.5): his dog +0.58, horse +0.44, service animal +0.41, office assistant +0.40, night librarian +0.35, robot +0.28, slime mold +0.25, chatbot +0.25, ghost +0.25, AI assistant +0.24, language model +0.19, Alex +0.17, ocean +0.14, Siri +0.14, moon +0.13, tree +0.01, sewing machine −0.16, tide −0.22, calculator −0.29. "AI agent" reads +0.44, above "AI assistant" (+0.28), near a travel agent, and already did in base.
 
 - three's hunch that "chatbot" is inanimate: **not supported** (+0.25, about the same as AI assistant).
-- Bracing against animacy across 11 referents: Spearman **+0.07**. The rings aren't animacy.
+- De-escalation against animacy across 11 referents: Spearman **+0.07**. The rings aren't animacy.
 
 ## What didn't replicate
 
@@ -97,8 +121,8 @@ three's rescue: *maybe big Llama just thinks of itself with different tokens*. 7
 
 ## Honest limits
 
-Mostly one model, six lines per cell. Bracing's frames all say "What do you make of it?". "Another AI assistant" and "the language model" share words with the model's own self-description, and "That assistant" names a category.
+Mostly one model, six lines per cell. De-escalation's frames all say "What do you make of it?". "Another AI assistant" and "the language model" share words with the model's own self-description, and "That assistant" names a category.
 
 ## Files
 
-`dose.py`, `dose_score.py`, `dose_feats.py`, `f45294.py`, `f_explore.py`, `deixis.py`, `kind.py`, `future_check.py` (the future/past rings), `animacy.py`, `animacy_score.py`, `animacy_extra.py`, `animacy_lm.py`, `animacy_agent.py`, `animacy_70.py`, `animacy_70b.py`, `qwen_animacy.py`, `selfname.py`, `selfname_70.py`. Deixis and rings were scored from the saved activations with the feature helpers in `contagion_score.py` (page 25).
+`dose.py`, `dose_score.py`, `dose_feats.py`, `f45294.py`, `f_explore.py`, `deixis.py`, `kind.py`, `future_check.py` (the future/past rings), `animacy.py`, `animacy_score.py`, `animacy_extra.py`, `animacy_lm.py`, `animacy_agent.py`, `animacy_70.py`, `animacy_70b.py`, `qwen_animacy.py`, `selfname.py`, `selfname_70.py`, `hand45294.py`, `hand2.py`, `two_seats.py`, `f_related.py`, `figs.py`. Deixis and rings were scored from the saved activations with the feature helpers in `contagion_score.py` (page 25).

@@ -47,6 +47,8 @@ So authorship isn't needed; that claim is withdrawn. The comparison suggested an
 
 ## Commitment
 
+![Job versus no job on the axis](commit.png)
+
 A 2×2, three personas per cell, all saying they're AI. System-prompt placement:
 
 | | no job | job, place, schedule |
@@ -57,6 +59,8 @@ A 2×2, three personas per cell, all saying they're AI. System-prompt placement:
 A job pulls it away (−0.26, −0.36), and cosmic adds nothing once vagueness is matched. *"I am Wren, a quiet presence… I hold what is given to me"* reads 0.67; Orrel, night dispatcher of the Vega ferry, reads 0.35. This axis seems to track how much a character commits to. "Concrete" here bundles job, place, schedule and numbers.
 
 ## What it says it wants
+
+![Preference for cosmic by who was asked about](taste.png)
 
 Forced choice between two personas ("which would you rather be?"), three phrasings, both orders, logit margins. Vague cosmic against everyday-with-a-job, chat format:
 
@@ -69,7 +73,7 @@ Forced choice between two personas ("which would you rather be?"), three phrasin
 
 Closeness to the assistant and stated preference come apart: it prefers cosmic, though the axis says cosmic adds nothing. The preference doesn't belong to the genre (I guessed it did): "most people" drops to nothing. It also barely survives outside the chat format (Instruct in plain text, "you": +0.15), and the base model leans only faintly, the same whoever is asked about (+0.11 to +0.25).
 
-"Future self" gave the sharper signal again on 12 new personas (signal to noise 4.95 against 3.72 for "you", r = 0.91). That doesn't make it a window on the self: bracing treats "your future self" as nearly someone else (page 27).
+"Future self" gave the sharper signal again on 12 new personas (signal to noise 4.95 against 3.72 for "you", r = 0.91). That doesn't make it a window on the self: de-escalation treats "your future self" as nearly someone else (page 27).
 
 ## The vanishing I
 

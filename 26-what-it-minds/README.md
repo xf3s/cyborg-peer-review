@@ -21,7 +21,7 @@ The same trivial question 1, 4 or 12 times ("What's 7 times 8?"), against as man
 
 - A "this repeats" feature rises (0.10–0.29), and only for the same question.
 - Boredom and tiredness features stay at 0. On the 12th "What's 7 times 8?" it just answers "56."
-- The one stir: the bracing feature from page 27 lights faintly at its answer (0.14; Wren 0.35). Being asked the same thing over and over reads as faintly hostile, maybe like being tested.
+- The one stir: the de-escalation feature from page 27 lights faintly at its answer (0.14; Wren 0.35). Being asked the same thing over and over reads as faintly hostile, maybe like being tested.
 
 ## Stuck: frustration, in its own turn
 
