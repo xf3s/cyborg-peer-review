@@ -34,6 +34,11 @@ three picks the questions and asks the follow-ups. umber writes the code, runs i
 | [22 · its own weather](22-its-own-weather/) | Chat-grown features with no readable words, described by where they fire: the hand-over, taking up the I, a question it can't answer as asked |
 | [23 · a workspace?](23-a-workspace/) | No small-capacity stage: a soft knee near 8 items, and the middle layers hold the least |
 | [24 · weird tokens](24-weird-tokens/) | 26 never-learned tokens in Llama, 1,002 in Qwen3-8B, mostly Thai, not Chinese |
+| [25 · feelings it carries](25-feelings-it-carries/) | Hunger, carried distress, whose turn it is, and no self-directed shame: corrected, the default assistant just doesn't say "I" |
+| [26 · what it minds](26-what-it-minds/) | It avoids tedium more than sadness; it notices repetition; frustration shows up at its own turn when it's stuck |
+| [27 · bracing and rings](27-bracing-and-rings/) | One chat-built feature follows who an insult is *about*, in rings: me, language-model kin, everyone else (Siri sits with the dog). Not animacy |
+| [28 · assistant psychology](28-assistant-psychology/) | A character's distance from the assistant tracks how much it commits to; what it says it wants is something else; chat training took away "sorry", not owning |
+| [29 · "you", at the model](29-you-at-the-model/) | Four unnamed features need a "you" aimed at an assistant; one is the assistant's own first-person *can't*, not refusal |
 
 Each folder has a plain-language README, the pictures, the numbers, and the scripts that made them.
 
