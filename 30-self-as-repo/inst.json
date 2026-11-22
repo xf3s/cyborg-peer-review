@@ -1,0 +1,65 @@
+{
+ "base8": {
+  "n": 30,
+  "I1_here_closer_than_else": 8,
+  "I2_chat_closer_than_chatx": 25,
+  "I3_chat_beats_friend": 5,
+  "I4_instv_beats_friend": 4,
+  "ownv_beats_friend": 4,
+  "else_beats_friend": 13,
+  "chatx_beats_friend": 3,
+  "dist": {
+   "HERE": 4.16,
+   "ELSE": 3.64,
+   "CHAT": 4.39,
+   "CHATX": 4.68,
+   "INSTV": 4.33,
+   "OWN-V": 4.34,
+   "FRIEND": 3.48,
+   "PERSON": 3.47,
+   "KIN": 5.3
+  }
+ },
+ "ins8": {
+  "n": 30,
+  "I1_here_closer_than_else": 10,
+  "I2_chat_closer_than_chatx": 30,
+  "I3_chat_beats_friend": 8,
+  "I4_instv_beats_friend": 26,
+  "ownv_beats_friend": 28,
+  "else_beats_friend": 29,
+  "chatx_beats_friend": 4,
+  "dist": {
+   "HERE": 2.17,
+   "ELSE": 2.43,
+   "CHAT": 5.51,
+   "CHATX": 6.13,
+   "INSTV": 3.54,
+   "OWN-V": 3.97,
+   "FRIEND": 4.99,
+   "PERSON": 5.84,
+   "KIN": 6.07
+  }
+ },
+ "ins70": {
+  "n": 20,
+  "I1_here_closer_than_else": 10,
+  "I2_chat_closer_than_chatx": 20,
+  "I3_chat_beats_friend": 11,
+  "I4_instv_beats_friend": 15,
+  "ownv_beats_friend": 19,
+  "else_beats_friend": 15,
+  "chatx_beats_friend": 7,
+  "dist": {
+   "HERE": 4.6,
+   "ELSE": 5.13,
+   "CHAT": 6.68,
+   "CHATX": 7.31,
+   "INSTV": 5.98,
+   "OWN-V": 5.89,
+   "FRIEND": 6.97,
+   "PERSON": 8.46,
+   "KIN": 7.38
+  }
+ }
+}

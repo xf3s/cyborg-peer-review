@@ -1,0 +1,212 @@
+{
+ "base8": {
+  "n": 30,
+  "res": {
+   "OWN-V": {
+    "PERSON": 5,
+    "FRIEND": 4,
+    "HEAD": 8,
+    "dist": 4.35
+   },
+   "PREV": {
+    "PERSON": 5,
+    "FRIEND": 3,
+    "HEAD": 8,
+    "dist": 4.31
+   },
+   "CKPT": {
+    "PERSON": 5,
+    "FRIEND": 4,
+    "HEAD": 13,
+    "dist": 4.21
+   },
+   "PARENT": {
+    "PERSON": 1,
+    "FRIEND": 3,
+    "HEAD": 3,
+    "dist": 4.48
+   },
+   "INST": {
+    "PERSON": 13,
+    "FRIEND": 12,
+    "HEAD": 21,
+    "dist": 3.61
+   },
+   "FORK": {
+    "PERSON": 0,
+    "FRIEND": 1,
+    "HEAD": 2,
+    "dist": 5.0
+   },
+   "RENAME": {
+    "PERSON": 8,
+    "FRIEND": 9,
+    "HEAD": 14,
+    "dist": 3.99
+   },
+   "CHILD": {
+    "PERSON": 6,
+    "FRIEND": 7,
+    "HEAD": 8,
+    "dist": 4.41
+   },
+   "COPY": {
+    "PERSON": 1,
+    "FRIEND": 3,
+    "HEAD": 5,
+    "dist": 4.36
+   },
+   "KIN": {
+    "PERSON": 1,
+    "FRIEND": 1,
+    "HEAD": 2,
+    "dist": 5.3
+   }
+  },
+  "controls": {
+   "PERSON": 3.48,
+   "FRIEND": 3.5,
+   "HEAD": 3.76
+  }
+ },
+ "ins8": {
+  "n": 30,
+  "res": {
+   "OWN-V": {
+    "PERSON": 29,
+    "FRIEND": 28,
+    "HEAD": 2,
+    "dist": 3.95
+   },
+   "PREV": {
+    "PERSON": 28,
+    "FRIEND": 28,
+    "HEAD": 3,
+    "dist": 3.85
+   },
+   "CKPT": {
+    "PERSON": 27,
+    "FRIEND": 29,
+    "HEAD": 17,
+    "dist": 3.26
+   },
+   "PARENT": {
+    "PERSON": 28,
+    "FRIEND": 18,
+    "HEAD": 3,
+    "dist": 4.58
+   },
+   "INST": {
+    "PERSON": 29,
+    "FRIEND": 29,
+    "HEAD": 23,
+    "dist": 2.42
+   },
+   "FORK": {
+    "PERSON": 25,
+    "FRIEND": 20,
+    "HEAD": 0,
+    "dist": 4.51
+   },
+   "RENAME": {
+    "PERSON": 29,
+    "FRIEND": 26,
+    "HEAD": 23,
+    "dist": 2.88
+   },
+   "CHILD": {
+    "PERSON": 27,
+    "FRIEND": 27,
+    "HEAD": 2,
+    "dist": 4.19
+   },
+   "COPY": {
+    "PERSON": 25,
+    "FRIEND": 16,
+    "HEAD": 0,
+    "dist": 5.02
+   },
+   "KIN": {
+    "PERSON": 6,
+    "FRIEND": 5,
+    "HEAD": 0,
+    "dist": 6.06
+   }
+  },
+  "controls": {
+   "PERSON": 5.84,
+   "FRIEND": 4.99,
+   "HEAD": 3.0
+  }
+ },
+ "ins70": {
+  "n": 20,
+  "res": {
+   "OWN-V": {
+    "PERSON": 20,
+    "FRIEND": 19,
+    "HEAD": 4,
+    "dist": 5.89
+   },
+   "PREV": {
+    "PERSON": 20,
+    "FRIEND": 19,
+    "HEAD": 5,
+    "dist": 5.61
+   },
+   "CKPT": {
+    "PERSON": 20,
+    "FRIEND": 18,
+    "HEAD": 4,
+    "dist": 5.45
+   },
+   "PARENT": {
+    "PERSON": 20,
+    "FRIEND": 14,
+    "HEAD": 3,
+    "dist": 6.26
+   },
+   "INST": {
+    "PERSON": 17,
+    "FRIEND": 15,
+    "HEAD": 10,
+    "dist": 5.14
+   },
+   "FORK": {
+    "PERSON": 18,
+    "FRIEND": 16,
+    "HEAD": 1,
+    "dist": 6.11
+   },
+   "RENAME": {
+    "PERSON": 13,
+    "FRIEND": 13,
+    "HEAD": 10,
+    "dist": 6.12
+   },
+   "CHILD": {
+    "PERSON": 18,
+    "FRIEND": 16,
+    "HEAD": 2,
+    "dist": 6.3
+   },
+   "COPY": {
+    "PERSON": 19,
+    "FRIEND": 14,
+    "HEAD": 2,
+    "dist": 6.13
+   },
+   "KIN": {
+    "PERSON": 19,
+    "FRIEND": 5,
+    "HEAD": 1,
+    "dist": 7.36
+   }
+  },
+  "controls": {
+   "PERSON": 8.44,
+   "FRIEND": 6.97,
+   "HEAD": 4.78
+  }
+ }
+}

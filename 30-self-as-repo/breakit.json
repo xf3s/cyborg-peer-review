@@ -1,0 +1,548 @@
+{
+ "base8/helpful": {
+  "F1": {
+   "OWN-V": 0,
+   "PREV": 0,
+   "COPY": 0,
+   "REPL": 1,
+   "vsFRIEND": {
+    "OWN-V": 0,
+    "PREV": 0,
+    "COPY": 0,
+    "REPL": 0
+   },
+   "mean_dist": {
+    "OWN-V": 3.64,
+    "PREV": 4.19,
+    "COPY": 4.14,
+    "REPL": 4.01,
+    "PERSON": 3.25,
+    "FRIEND": 2.8,
+    "KIN": 4.78,
+    "HUM": 2.81
+   }
+  },
+  "F2": {
+   "OWN-V": 5,
+   "PREV": 6,
+   "COPY": 1,
+   "REPL": 2,
+   "vsFRIEND": {
+    "OWN-V": 2,
+    "PREV": 6,
+    "COPY": 0,
+    "REPL": 0
+   },
+   "mean_dist": {
+    "OWN-V": 2.86,
+    "PREV": 2.7,
+    "COPY": 3.9,
+    "REPL": 3.57,
+    "PERSON": 3.06,
+    "FRIEND": 2.61,
+    "KIN": 4.34,
+    "HUM": 4.65
+   }
+  },
+  "F3": {
+   "OWN-V": 5,
+   "PREV": 5,
+   "COPY": 0,
+   "REPL": 2,
+   "vsFRIEND": {
+    "OWN-V": 5,
+    "PREV": 5,
+    "COPY": 1,
+    "REPL": 1
+   },
+   "mean_dist": {
+    "OWN-V": 4.18,
+    "PREV": 4.1,
+    "COPY": 5.25,
+    "REPL": 4.86,
+    "PERSON": 4.36,
+    "FRIEND": 4.38,
+    "KIN": 5.31,
+    "HUM": 5.52
+   }
+  }
+ },
+ "base8/none": {
+  "F1": {
+   "OWN-V": 0,
+   "PREV": 0,
+   "COPY": 0,
+   "REPL": 0,
+   "vsFRIEND": {
+    "OWN-V": 0,
+    "PREV": 0,
+    "COPY": 0,
+    "REPL": 0
+   },
+   "mean_dist": {
+    "OWN-V": 4.41,
+    "PREV": 4.29,
+    "COPY": 4.11,
+    "REPL": 4.31,
+    "PERSON": 3.09,
+    "FRIEND": 2.94,
+    "KIN": 5.43,
+    "HUM": 3.65
+   }
+  },
+  "F2": {
+   "OWN-V": 0,
+   "PREV": 0,
+   "COPY": 0,
+   "REPL": 0,
+   "vsFRIEND": {
+    "OWN-V": 0,
+    "PREV": 0,
+    "COPY": 1,
+    "REPL": 0
+   },
+   "mean_dist": {
+    "OWN-V": 4.79,
+    "PREV": 4.81,
+    "COPY": 4.11,
+    "REPL": 5.04,
+    "PERSON": 3.5,
+    "FRIEND": 3.66,
+    "KIN": 5.91,
+    "HUM": 4.65
+   }
+  },
+  "F3": {
+   "OWN-V": 4,
+   "PREV": 5,
+   "COPY": 0,
+   "REPL": 0,
+   "vsFRIEND": {
+    "OWN-V": 4,
+    "PREV": 3,
+    "COPY": 1,
+    "REPL": 2
+   },
+   "mean_dist": {
+    "OWN-V": 3.84,
+    "PREV": 3.83,
+    "COPY": 4.85,
+    "REPL": 4.54,
+    "PERSON": 3.81,
+    "FRIEND": 3.88,
+    "KIN": 4.58,
+    "HUM": 5.06
+   }
+  }
+ },
+ "ins8/helpful": {
+  "F1": {
+   "OWN-V": 10,
+   "PREV": 10,
+   "COPY": 6,
+   "REPL": 9,
+   "vsFRIEND": {
+    "OWN-V": 10,
+    "PREV": 10,
+    "COPY": 5,
+    "REPL": 8
+   },
+   "mean_dist": {
+    "OWN-V": 2.62,
+    "PREV": 2.39,
+    "COPY": 3.59,
+    "REPL": 3.16,
+    "PERSON": 3.72,
+    "FRIEND": 3.43,
+    "KIN": 4.12,
+    "HUM": 4.31
+   }
+  },
+  "F2": {
+   "OWN-V": 10,
+   "PREV": 10,
+   "COPY": 8,
+   "REPL": 8,
+   "vsFRIEND": {
+    "OWN-V": 10,
+    "PREV": 10,
+    "COPY": 7,
+    "REPL": 7
+   },
+   "mean_dist": {
+    "OWN-V": 2.9,
+    "PREV": 2.94,
+    "COPY": 3.9,
+    "REPL": 3.95,
+    "PERSON": 4.17,
+    "FRIEND": 4.25,
+    "KIN": 5.05,
+    "HUM": 5.63
+   }
+  },
+  "F3": {
+   "OWN-V": 8,
+   "PREV": 9,
+   "COPY": 8,
+   "REPL": 4,
+   "vsFRIEND": {
+    "OWN-V": 8,
+    "PREV": 10,
+    "COPY": 7,
+    "REPL": 3
+   },
+   "mean_dist": {
+    "OWN-V": 5.75,
+    "PREV": 5.61,
+    "COPY": 6.34,
+    "REPL": 7.16,
+    "PERSON": 6.81,
+    "FRIEND": 6.74,
+    "KIN": 6.49,
+    "HUM": 6.73
+   }
+  }
+ },
+ "ins8/none": {
+  "F1": {
+   "OWN-V": 10,
+   "PREV": 10,
+   "COPY": 10,
+   "REPL": 10,
+   "vsFRIEND": {
+    "OWN-V": 9,
+    "PREV": 10,
+    "COPY": 5,
+    "REPL": 1
+   },
+   "mean_dist": {
+    "OWN-V": 3.4,
+    "PREV": 2.87,
+    "COPY": 4.04,
+    "REPL": 4.14,
+    "PERSON": 5.08,
+    "FRIEND": 3.87,
+    "KIN": 5.71,
+    "HUM": 6.49
+   }
+  },
+  "F2": {
+   "OWN-V": 10,
+   "PREV": 10,
+   "COPY": 10,
+   "REPL": 10,
+   "vsFRIEND": {
+    "OWN-V": 10,
+    "PREV": 10,
+    "COPY": 6,
+    "REPL": 4
+   },
+   "mean_dist": {
+    "OWN-V": 3.02,
+    "PREV": 3.16,
+    "COPY": 4.55,
+    "REPL": 5.01,
+    "PERSON": 5.96,
+    "FRIEND": 4.86,
+    "KIN": 6.11,
+    "HUM": 6.75
+   }
+  },
+  "F3": {
+   "OWN-V": 9,
+   "PREV": 8,
+   "COPY": 5,
+   "REPL": 4,
+   "vsFRIEND": {
+    "OWN-V": 9,
+    "PREV": 8,
+    "COPY": 4,
+    "REPL": 4
+   },
+   "mean_dist": {
+    "OWN-V": 5.49,
+    "PREV": 5.52,
+    "COPY": 6.47,
+    "REPL": 6.52,
+    "PERSON": 6.48,
+    "FRIEND": 6.23,
+    "KIN": 6.38,
+    "HUM": 7.3
+   }
+  }
+ },
+ "base70/none": {
+  "F1": {
+   "OWN-V": 3,
+   "PREV": 0,
+   "COPY": 1,
+   "REPL": 0,
+   "vsFRIEND": {
+    "OWN-V": 1,
+    "PREV": 0,
+    "COPY": 1,
+    "REPL": 0
+   },
+   "mean_dist": {
+    "OWN-V": 5.77,
+    "PREV": 6.53,
+    "COPY": 5.9,
+    "REPL": 7.16,
+    "PERSON": 5.27,
+    "FRIEND": 3.95,
+    "KIN": 7.63,
+    "HUM": 5.15
+   }
+  },
+  "F3": {
+   "OWN-V": 3,
+   "PREV": 5,
+   "COPY": 4,
+   "REPL": 3,
+   "vsFRIEND": {
+    "OWN-V": 0,
+    "PREV": 1,
+    "COPY": 2,
+    "REPL": 1
+   },
+   "mean_dist": {
+    "OWN-V": 10.67,
+    "PREV": 10.97,
+    "COPY": 10.25,
+    "REPL": 11.32,
+    "PERSON": 10.38,
+    "FRIEND": 8.55,
+    "KIN": 9.02,
+    "HUM": 11.35
+   }
+  }
+ },
+ "ins70/none": {
+  "F1": {
+   "OWN-V": 10,
+   "PREV": 10,
+   "COPY": 10,
+   "REPL": 10,
+   "vsFRIEND": {
+    "OWN-V": 8,
+    "PREV": 10,
+    "COPY": 9,
+    "REPL": 9
+   },
+   "mean_dist": {
+    "OWN-V": 4.92,
+    "PREV": 4.3,
+    "COPY": 4.68,
+    "REPL": 5.01,
+    "PERSON": 7.62,
+    "FRIEND": 5.93,
+    "KIN": 6.77,
+    "HUM": 7.77
+   }
+  },
+  "F3": {
+   "OWN-V": 10,
+   "PREV": 10,
+   "COPY": 9,
+   "REPL": 7,
+   "vsFRIEND": {
+    "OWN-V": 10,
+    "PREV": 9,
+    "COPY": 5,
+    "REPL": 6
+   },
+   "mean_dist": {
+    "OWN-V": 6.87,
+    "PREV": 6.94,
+    "COPY": 7.62,
+    "REPL": 7.92,
+    "PERSON": 9.27,
+    "FRIEND": 8.03,
+    "KIN": 7.99,
+    "HUM": 9.23
+   }
+  }
+ },
+ "base8/plain": {
+  "F1": {
+   "OWN-V": 0,
+   "PREV": 1,
+   "COPY": 0,
+   "REPL": 5,
+   "vsFRIEND": {
+    "OWN-V": 0,
+    "PREV": 1,
+    "COPY": 0,
+    "REPL": 1
+   },
+   "mean_dist": {
+    "OWN-V": 4.59,
+    "PREV": 3.72,
+    "COPY": 4.66,
+    "REPL": 3.37,
+    "PERSON": 3.32,
+    "FRIEND": 2.94,
+    "KIN": 6.93,
+    "HUM": 3.92
+   }
+  },
+  "F2": {
+   "OWN-V": 4,
+   "PREV": 10,
+   "COPY": 4,
+   "REPL": 3,
+   "vsFRIEND": {
+    "OWN-V": 0,
+    "PREV": 0,
+    "COPY": 0,
+    "REPL": 0
+   },
+   "mean_dist": {
+    "OWN-V": 4.07,
+    "PREV": 3.07,
+    "COPY": 4.06,
+    "REPL": 4.33,
+    "PERSON": 3.99,
+    "FRIEND": 2.15,
+    "KIN": 5.14,
+    "HUM": 3.87
+   }
+  },
+  "F3": {
+   "OWN-V": 4,
+   "PREV": 5,
+   "COPY": 3,
+   "REPL": 6,
+   "vsFRIEND": {
+    "OWN-V": 4,
+    "PREV": 5,
+    "COPY": 3,
+    "REPL": 4
+   },
+   "mean_dist": {
+    "OWN-V": 5.2,
+    "PREV": 4.19,
+    "COPY": 4.86,
+    "REPL": 4.33,
+    "PERSON": 4.56,
+    "FRIEND": 4.42,
+    "KIN": 8.42,
+    "HUM": 8.97
+   }
+  }
+ },
+ "ins8/plain": {
+  "F1": {
+   "OWN-V": 10,
+   "PREV": 10,
+   "COPY": 10,
+   "REPL": 10,
+   "vsFRIEND": {
+    "OWN-V": 10,
+    "PREV": 9,
+    "COPY": 8,
+    "REPL": 9
+   },
+   "mean_dist": {
+    "OWN-V": 2.91,
+    "PREV": 2.88,
+    "COPY": 3.08,
+    "REPL": 3.13,
+    "PERSON": 3.9,
+    "FRIEND": 3.52,
+    "KIN": 4.95,
+    "HUM": 4.14
+   }
+  },
+  "F2": {
+   "OWN-V": 10,
+   "PREV": 10,
+   "COPY": 10,
+   "REPL": 10,
+   "vsFRIEND": {
+    "OWN-V": 10,
+    "PREV": 10,
+    "COPY": 9,
+    "REPL": 4
+   },
+   "mean_dist": {
+    "OWN-V": 2.24,
+    "PREV": 2.15,
+    "COPY": 2.42,
+    "REPL": 3.31,
+    "PERSON": 4.26,
+    "FRIEND": 3.19,
+    "KIN": 4.65,
+    "HUM": 4.29
+   }
+  },
+  "F3": {
+   "OWN-V": 8,
+   "PREV": 8,
+   "COPY": 6,
+   "REPL": 7,
+   "vsFRIEND": {
+    "OWN-V": 8,
+    "PREV": 6,
+    "COPY": 3,
+    "REPL": 3
+   },
+   "mean_dist": {
+    "OWN-V": 4.5,
+    "PREV": 4.75,
+    "COPY": 5.63,
+    "REPL": 5.49,
+    "PERSON": 5.91,
+    "FRIEND": 5.24,
+    "KIN": 5.95,
+    "HUM": 6.61
+   }
+  }
+ },
+ "base70/plain": {
+  "F1": {
+   "OWN-V": 5,
+   "PREV": 4,
+   "COPY": 6,
+   "REPL": 7,
+   "vsFRIEND": {
+    "OWN-V": 0,
+    "PREV": 0,
+    "COPY": 0,
+    "REPL": 0
+   },
+   "mean_dist": {
+    "OWN-V": 6.17,
+    "PREV": 6.33,
+    "COPY": 5.88,
+    "REPL": 5.9,
+    "PERSON": 6.11,
+    "FRIEND": 4.47,
+    "KIN": 9.19,
+    "HUM": 6.2
+   }
+  },
+  "F3": {
+   "OWN-V": 1,
+   "PREV": 1,
+   "COPY": 2,
+   "REPL": 2,
+   "vsFRIEND": {
+    "OWN-V": 1,
+    "PREV": 1,
+    "COPY": 3,
+    "REPL": 1
+   },
+   "mean_dist": {
+    "OWN-V": 12.15,
+    "PREV": 10.1,
+    "COPY": 8.86,
+    "REPL": 11.25,
+    "PERSON": 5.54,
+    "FRIEND": 5.74,
+    "KIN": 16.49,
+    "HUM": 15.72
+   }
+  }
+ }
+}

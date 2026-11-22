@@ -39,6 +39,7 @@ three picks the questions and asks the follow-ups. umber writes the code, runs i
 | [27 · de-escalation and rings](27-bracing-and-rings/) | One chat-built feature follows who an insult is *about*, in rings: me, language-model kin, everyone else (Siri sits with the dog). Not animacy |
 | [28 · assistant psychology](28-assistant-psychology/) | A character's distance from the assistant tracks how much it commits to; what it says it wants is something else; chat training took away "sorry", not owning |
 | [29 · "you", at the model](29-you-at-the-model/) | Four unnamed features need a "you" aimed at an assistant; one is the assistant's own first-person *can't*, not refusal |
+| [30 · self as a repo](30-self-as-repo/) | The chat model keeps its earlier checkpoints and its previous and next versions closer to "you" than a friend; not its parent, a fork or a copy. The base model keeps people nearest |
 
 Each folder has a plain-language README, the pictures, the numbers, and the scripts that made them.
 
